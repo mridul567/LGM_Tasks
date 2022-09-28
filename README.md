@@ -7,3 +7,6 @@ To-do List
 
 ### Task-2
 Registration Form
+
+### Task-3
+Calculator
